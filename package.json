@@ -9,6 +9,9 @@
   "engines": {
     "node": "14.15.4"
   },
+  "scripts": {
+   "start": "node app.js"
+  },
   "author": "Vanilla by Lare",
   "license": "ISC",
   "dependencies": {
